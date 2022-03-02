@@ -7,4 +7,4 @@
   
 # UNO card game
 ## simply make a text-based UNO game via python
-1. just execute uno-game.py
+1. just execute uno_game.py
