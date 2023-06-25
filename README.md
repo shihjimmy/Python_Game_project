@@ -1,4 +1,4 @@
-# battle tanks python project 
+# Battle tanks python project 
 ## remake the classic tank battle game via pygame  
 ### how to play?  
 1. install python && pygame  
